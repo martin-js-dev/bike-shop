@@ -489,3 +489,73 @@
 .latest-2 button:hover {
   background-color:#ff6e40;
 }
+
+/*--======================ABOUT US-==================-- */
+
+.about-img img {
+  height: 300px;
+  width: 300px;
+  
+  padding-left: 475px;
+}
+
+.about-us {
+  background-color: #f5f0e1;
+  margin-top: 70px;
+}
+
+.text2 {
+  text-align: center;
+  color: #1e3d59;
+  margin-top: 70px;
+}
+
+.text2 h1 {
+  text-transform: uppercase;
+  padding-top: 50px;
+  font-size: 24px;
+}
+
+.text .text-content {
+  padding-left: 100px;
+  padding-right: 100px;
+  color:#475766;
+  
+}
+
+.text-content {
+  font-style: italic;
+  line-height: 25px;
+}
+.text-content h3 {
+  color:#475766;
+}
+
+.why-us {
+  display: flex;
+  background-color:#dbd5c1;
+  
+  
+}
+
+.ionicon .s-ion-icon {
+  width: 100px;
+  height: 100px;
+}
+
+.why  {
+  color:#1e3d59;
+  width: 200px;
+  padding: 50px;
+}
+
+
+.why h4 span {
+  text-align: center;
+}
+
+.why h4 {
+  text-transform: uppercase;
+  text-align: center;
+}
+
