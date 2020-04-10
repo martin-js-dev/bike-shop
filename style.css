@@ -761,4 +761,176 @@
 }
 
 
+/*--======================FOOTER-==================--*/
+
+.footer-wrapper {
+  background-image: linear-gradient(#1e3d59, #4a6780);
+}
+
+.footer {
+  margin-top: 100px;
+}
+
+.footer-col img {
+  height: 65px;
+  width: 220px;
+  margin-top: 16px;
+  
+}
+
+
+.page-footer{
+  display: flex;
+  padding-left: 150px;
+  
+}
+
+.page-footer {
+
+padding-top: 30px;
+}
+
+.footer-col {
+  width: 25%;
+  height: 185px;
+  float: left;
+  color: #f5f0e1;
+  margin-top: 30px;
+  
+}
+.footer-col p {
+  font-size: 18px;
+}
+.footer-col span {
+  display: flex;
+}
+
+.footer-col span p {
+  color: #f5f0e1;
+}
+
+
+.footer-col ul li {
+  font-size: 17px;
+  list-style-type: none;
+  color:#f5f0e1;
+}
+.page-footer h3 {
+font-size: 13px;
+  text-transform: uppercase;
+  margin-right: 50px;
+}
+
+.page-footer h3::after {
+content: '.';
+font-size: 0;
+width: 90%;
+height: 1px;
+background: #1e3d59;
+display: block;
+margin: 15px 0;
+}
+
+.page-footer li {
+font-size: 13px;
+color: #f5f0e1;
+line-height: 1.6;
+}
+.page-footer li:hover {
+color: #ff6e40;
+cursor: pointer;
+}
+
+
+.wrapper1 {
+  width: 300px;
+  height: 50px;
+  display: flex;
+  
+  
+}
+
+.icon {
+  height: 50px;
+  width: 56px;
+  color: #ff6e40;
+}
+
+.text {
+  margin: 5px;
+  font-size: 15px;
+  padding-right: 35px;
+  color: #dbd5c1;
+}
+
+.social {
+  display: flex;
+  
+}
+
+.social li {
+  padding: 15px;
+  list-style-type: none;
+  
+}
+
+
+
+
+
+
+.join-form {
+  background-image: linear-gradient(#1e3d59, #4a6780);
+  width: 30vw;
+  height: 350px;
+  max-width: 50%;
+  padding: 2rem 2rem;
+  border-radius: 20px;
+  color: #dbd5c1;
+  
+}
+
+.input-group {
+  margin-bottom: 0.8rem;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.input-group label {
+  text-transform: uppercase;
+  font-size: 12px;
+}
+.input-group input {
+  background-color: #4c7294;
+  width: 250px;
+  height: 28px;
+  border: none;
+}
+
+.input-group .btn {
+  color: white;
+  background-color: #ff6e40;
+  font-size: 16px;
+  width: 250px;
+  height: 35px;
+  text-transform: uppercase;
+  border: none;
+  
+}
+
+.input-group .btn:hover {
+  background-color: #db3907;
+  cursor: pointer;
+}
+
+.copy {
+  color: white;
+  font-size: 16px;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+
+
 
